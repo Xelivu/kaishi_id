@@ -33,7 +33,7 @@ Contrary to most other Core-type decks, here furigana gives the reading of the w
 
 ## Where do I get the deck?
 
-You can either get the deck on the [releases](https://github.com/Xelivu/kaishi_id/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
+You can either get the deck on the [releases](https://github.com/Xelivu/kaishi_id/releases/) page of this GitHub.
 
 ## How do I use this deck?
 
